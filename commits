@@ -1,0 +1,79 @@
+curl GET https://api.github.com/repos/justhyunie/github_api/commits
+
+[
+  {
+    "sha": "3985129011d02ad38cb54b041a65744d2030bdc0",
+    "node_id": "MDY6Q29tbWl0MzE5MjA3MTY4OjM5ODUxMjkwMTFkMDJhZDM4Y2I1NGIwNDFhNjU3NDRkMjAzMGJkYzA=",
+    "commit": {
+      "author": {
+        "name": "justhyunie",
+        "email": "70490701+justhyunie@users.noreply.github.com",
+        "date": "2020-12-07T04:49:47Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2020-12-07T04:49:47Z"
+      },
+      "message": "Initial commit",
+      "tree": {
+        "sha": "8b9ba16ebbf9f882db0fb5fa20dbd3c526b3e758",
+        "url": "https://api.github.com/repos/justhyunie/github_api/git/trees/8b9ba16ebbf9f882db0fb5fa20dbd3c526b3e758"
+      },
+      "url": "https://api.github.com/repos/justhyunie/github_api/git/commits/3985129011d02ad38cb54b041a65744d2030bdc0",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzbRrCRBK7hj4Ov3rIwAAdHIIAGACgP6W8oY9qSVqBO/QROEf\nnICjVucwAc2Tf5ObKYNI1b/rZcYEInb+CXgAe7hTGl0bTEQp5Sqic5qdkuXSw+zG\nuc/ZAl1gKGizpSaHFtQcHOybqSk0kpA1UdVKXO3unXCyPZLgJxZ6zy5fuZh87qCK\npOSgKdqnppwX056gYZ/rYQu3I7X0jz6fUpRutT1pBlKRePIGB4OS+qsVvGtM4Qi1\nbD2BrY5w2SJNdO+sR688+AzsLBY5i475w2iIfRTJLC6DYecYReZRMYgTvEAI989p\nAb//jKW2bp/myNxLMo1quCk7+AIEXSWcmPWiKSIdmnmYgyc1Hw2P9dsITq8hlDA=\n=lz3j\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 8b9ba16ebbf9f882db0fb5fa20dbd3c526b3e758\nauthor justhyunie <70490701+justhyunie@users.noreply.github.com> 1607316587 -0600\ncommitter GitHub <noreply@github.com> 1607316587 -0600\n\nInitial commit"
+      }
+    },
+    "url": "https://api.github.com/repos/justhyunie/github_api/commits/3985129011d02ad38cb54b041a65744d2030bdc0",
+    "html_url": "https://github.com/justhyunie/github_api/commit/3985129011d02ad38cb54b041a65744d2030bdc0",
+    "comments_url": "https://api.github.com/repos/justhyunie/github_api/commits/3985129011d02ad38cb54b041a65744d2030bdc0/comments",
+    "author": {
+      "login": "justhyunie",
+      "id": 70490701,
+      "node_id": "MDQ6VXNlcjcwNDkwNzAx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/70490701?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/justhyunie",
+      "html_url": "https://github.com/justhyunie",
+      "followers_url": "https://api.github.com/users/justhyunie/followers",
+      "following_url": "https://api.github.com/users/justhyunie/following{/other_user}",
+      "gists_url": "https://api.github.com/users/justhyunie/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/justhyunie/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/justhyunie/subscriptions",
+      "organizations_url": "https://api.github.com/users/justhyunie/orgs",
+      "repos_url": "https://api.github.com/users/justhyunie/repos",
+      "events_url": "https://api.github.com/users/justhyunie/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/justhyunie/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]
